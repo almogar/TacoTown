@@ -1,0 +1,40 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=16804 outsize=8237 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10288 outsize=3236 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8630 outsize=6168 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4026 outsize=885 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2605 outsize=869 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10868 outsize=4192 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=40246 outsize=38848 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1113 outsize=687 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 9 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(103): #error "SAMPLE_TEXTURECUBE_ARRAY" is not supported on GLES 3.0
+  error: 2 plat 9 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(108): #error "SAMPLE_TEXTURECUBE_ARRAY_LOD" is not supported on GLES 3.0
+  api=9 insize=3718 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=20116 outsize=725 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5168 outsize=899 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26542 outsize=324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=35937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=69405 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=51141 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15784 outsize=51303 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5893 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13940 outsize=3986 ok=1
